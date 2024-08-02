@@ -1,2 +1,2 @@
 # react
- Curso de React com o professor Diego Fernandes.
+ Curso de React da Rocketseat com o professor Diego Fernandes.
