@@ -1,7 +1,7 @@
-import Post from "./Post"
+import {Post} from "./Post"
 
-function App() {
-  return <Post />
+export function App() {
+  return <Post /> // Se tiver mais return, precisa colocar em uma div.
 }
 
-export default App
+
