@@ -10,7 +10,7 @@ export function Sidebar() {
 
       <div className={styles.profile}>
         <strong>Rafael Gonçalves</strong>
-        <span><p></p></span>
+        <span><p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Numquam earum consectetur repellat hic fugit? Velit illo ut qui, veritatis ab atque, rerum facilis consequatur nemo quas dolore maiores, vitae facere.</p></span>
 
         <footer>
           <a href="#">Editar seu perfil</a>
