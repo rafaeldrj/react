@@ -9,6 +9,10 @@ export function Sidebar() {
       />
 
       <div className={styles.profile}>
+        <img
+          className={styles.avatar}
+          src="https://avatars.githubusercontent.com/u/139784080?v=4"
+        />
         <strong>Rafael Gonçalves</strong>
         <span>Web Developer</span>
 
