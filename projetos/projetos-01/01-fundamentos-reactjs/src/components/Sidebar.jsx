@@ -10,7 +10,7 @@ export function Sidebar() {
 
       <div className={styles.profile}>
         <strong>Rafael Gonçalves</strong>
-        <span>Rafael Gonçalves</span>
+        <span>Web Developer</span>
 
         <footer>
           <a href="#">Editar seu perfil</a>
